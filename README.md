@@ -10,7 +10,7 @@
 <h2>Blog : </h2>
 <img alt="Static Badge" src="https://i.ibb.co/c8Spv2w/responsive-personal-website-with-laravel-blog.png">
 <h2>Post : </h2>
-<img alt="Static Badge" src="https://i.ibb.co/1LXWSh5/responsive-personal-website-with-laravel-post.png">
+<img alt="Static Badge" src="https://i.ibb.co/j5ptt7Z/responsive-personal-website-with-laravel-post.png">
 <h2>Contact : </h2>
 <img alt="Static Badge" src="https://i.ibb.co/pWKdhfm/responsive-personal-website-with-laravel-contact.png">
 <h2>Login : </h2>
